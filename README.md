@@ -1,16 +1,19 @@
-## Hi there 👋
+Hey there, I'm Darshan Jain!
+Data Analyst & Visualization student at JECRC University, Jaipur | Finance & Business Enthusiast
+---
 
-<!--
-**iam-darshanjain/iam-darshanjain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Current Goals
+- Learning SQL, Advanced Excel, and Tableau
+- Building Power BI / Tableau dashboards and Data Analysis projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills in Progress
+Python • SQL • Excel • Power BI • Tableau • Finance Student • Business CaseStudy
+
+---
+
+### Let's Connect!
+- LinkedIn: https://www.linkedin.com/in/iam-darshanjain
+- Personal Blog: https://iamdarshanjain.blogspot.com/
+- X (Twitter): https://twitter.com/iamdarshanjain

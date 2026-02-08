@@ -1,6 +1,6 @@
 Darshan Jain
 ---
-## Ex Intern - EY | Data Analytics & Data Visualization | Python • SQL • Power BI • Tableau • Excel |
+## Ex Intern - EY | Data Analytics & Data Visualization | Python • SQL • Power BI • Tableau • Excel
 ### Skills in Progress
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -8,6 +8,7 @@ Darshan Jain
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=iam-darshanjain&label=Profile%20views&color=0e75b6&style=flat)

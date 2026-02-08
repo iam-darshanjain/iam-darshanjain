@@ -1,11 +1,5 @@
-Hey there, I'm Darshan Jain!
-Data Analyst & Visualization student at JECRC University, Jaipur | Finance & Business Enthusiast
----
-
-### Current Goals
-- Learning SQL, Advanced Excel, and Tableau
-- Building Power BI / Tableau dashboards and Data Analysis projects
-
+Darshan Jain
+Ex Intern - EY | Data Analytics & Data Visualization | Python • SQL • Power BI • Tableau • Excel |
 ---
 
 ### Skills in Progress

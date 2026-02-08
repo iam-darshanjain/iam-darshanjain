@@ -14,6 +14,8 @@ Darshan Jain
 ![Profile Views](https://komarev.com/ghpvc/?username=iam-darshanjain&label=Profile%20views&color=0e75b6&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/iam-darshanjain?label=Follow&style=social)
 
+---
+
 ### GitHub Stats
 ![Darshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iam-darshanjain&show_icons=true&theme=default)
 ![Darshan's GitHub Streak](https://streak-stats.demolab.com?user=iam-darshanjain&theme=default)
